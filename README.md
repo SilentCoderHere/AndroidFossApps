@@ -39,6 +39,17 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AAAAXY](https://github.com/divVerent/aaaaxy)
+- [Colorful](https://github.com/suve/LD25)
+- [Frogue](https://github.com/necrashter/frogue)
+- [Tessel](https://github.com/gvtulder/tessel)
+- [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
+- [Gridle](https://github.com/billthefarmer/gridle)
+- [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
+- [Block Drop](https://github.com/brandonp2412/BlockDrop)
+- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
+- [Snakes](https://gitlab.com/mir06/snakes)
+- [Bim](https://github.com/j-jorge/bim)
 - [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 - [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
@@ -53,17 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Unitto](https://github.com/sadellie/unitto)
 - [NumberHub](https://github.com/Myzel394/NumberHub)
 - [Right Gallery](https://github.com/Goodwy/Gallery)
-- [Echo](https://github.com/iad1tya/Echo-Music)
-- [Continuum](https://github.com/cygnusx-1-org/continuum)
-- [Norm](https://github.com/tusharonly/norm)
-- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
-- [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer)
-- [Kori](https://github.com/YangDai2003/Kori)
-- [Rethink DNS](https://github.com/celzero/rethink-app)
-- [Translator](https://github.com/DavidVentura/firefox-translator)
-- [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
-- [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
-- [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 
 </details>
 
@@ -745,13 +745,17 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
+- [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
+- [Colorful](https://github.com/suve/LD25)
+- [Frogue](https://github.com/necrashter/frogue)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
+- [Tessel](https://github.com/gvtulder/tessel)
 
 #### Board
 
@@ -800,17 +804,23 @@ If you want to help out with the project, here are some ideas:
 #### Logic
 
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
+- [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
+- [Gridle](https://github.com/billthefarmer/gridle)
+- [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 
 #### Puzzle
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
+- [Block Drop](https://github.com/brandonp2412/BlockDrop)
+- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 #### Snake
 
+- [Snakes](https://gitlab.com/mir06/snakes)
 - [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 
@@ -829,6 +839,10 @@ If you want to help out with the project, here are some ideas:
 #### Quiz/Trivia
 
 - [New Quiz](https://github.com/joaomanaia/newquiz)
+
+#### Online
+
+- [Bim](https://github.com/j-jorge/bim)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
