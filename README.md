@@ -376,7 +376,7 @@ If you want to help out with the project, here are some ideas:
 - [Mint Calculator](https://github.com/boredcodebyk/mintcalc)
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
-- [Unitto](https://github.com/sadellie/unitto) **`DEAD`**
+- [Unitto](https://github.com/sadellie/unitto)
   - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
 - [zCalc](https://github.com/ziadOUA/zCalc)
