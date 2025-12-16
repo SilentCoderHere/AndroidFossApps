@@ -39,6 +39,17 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [AAAAXY](https://github.com/divVerent/aaaaxy)
+- [Colorful](https://github.com/suve/LD25)
+- [Frogue](https://github.com/necrashter/frogue)
+- [Tessel](https://github.com/gvtulder/tessel)
+- [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
+- [Gridle](https://github.com/billthefarmer/gridle)
+- [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
+- [Block Drop](https://github.com/brandonp2412/BlockDrop)
+- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
+- [Snakes](https://gitlab.com/mir06/snakes)
+- [Bim](https://github.com/j-jorge/bim)
 - [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 - [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
@@ -53,17 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Unitto](https://github.com/sadellie/unitto)
 - [NumberHub](https://github.com/Myzel394/NumberHub)
 - [Right Gallery](https://github.com/Goodwy/Gallery)
-- [Echo](https://github.com/iad1tya/Echo-Music)
-- [Continuum](https://github.com/cygnusx-1-org/continuum)
-- [Norm](https://github.com/tusharonly/norm)
-- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
-- [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer)
-- [Kori](https://github.com/YangDai2003/Kori)
-- [Rethink DNS](https://github.com/celzero/rethink-app)
-- [Translator](https://github.com/DavidVentura/firefox-translator)
-- [Toolkit Tiles](https://github.com/WSTxda/Toolkit-Tiles)
-- [Podcaster](https://github.com/mr3y-the-programmer/Podcaster)
-- [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 
 </details>
 
@@ -376,7 +376,7 @@ If you want to help out with the project, here are some ideas:
 - [Mint Calculator](https://github.com/boredcodebyk/mintcalc)
 - [Multi-Calculator](https://github.com/YangDai2003/Multi-Calculator-Android)
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc)
-- [unitto](https://github.com/sadellie/unitto) **`DEAD`**
+- [Unitto](https://github.com/sadellie/unitto)
   - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
 - [yetCalc](https://github.com/Yet-Zio/yetCalc)
 - [zCalc](https://github.com/ziadOUA/zCalc)
@@ -453,7 +453,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Telegram
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Telegram](https://github.com/DrKLO/Telegram)
@@ -745,13 +745,17 @@ If you want to help out with the project, here are some ideas:
 
 ### :video_game: Games & Emulator
 
+- [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
+- [Colorful](https://github.com/suve/LD25)
+- [Frogue](https://github.com/necrashter/frogue)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
+- [Tessel](https://github.com/gvtulder/tessel)
 
 #### Board
 
@@ -786,8 +790,7 @@ If you want to help out with the project, here are some ideas:
 - [RUTMath](https://github.com/przemarbor/RUTMath)
 - [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [Tux Math](https://gitlab.com/Afrikalan/tuxmath-android)
-- [Unitto](https://github.com/sadellie/unitto)
-  - [NumberHub](https://github.com/Myzel394/NumberHub) **`FORK`**
+
 #### Emulators
 
 - [Dolphin](https://github.com/dolphin-emu/dolphin)
@@ -801,17 +804,23 @@ If you want to help out with the project, here are some ideas:
 #### Logic
 
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
+- [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
+- [Gridle](https://github.com/billthefarmer/gridle)
+- [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
 - [WordleSolver](https://github.com/billthefarmer/wordlesolver)
 - [Zoysii](https://gitlab.com/deepdaikon/Zoysii)
 
 #### Puzzle
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
+- [Block Drop](https://github.com/brandonp2412/BlockDrop)
+- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
 - [Xeonjia](https://gitlab.com/deepdaikon/Xeonjia)
 
 #### Snake
 
+- [Snakes](https://gitlab.com/mir06/snakes)
 - [Snake Classic](https://github.com/kafri8889/Compose-Classic-Snake-Game)
 - [SnakeWall](https://github.com/Kalpu-24/SnakeWall)
 
@@ -830,6 +839,10 @@ If you want to help out with the project, here are some ideas:
 #### Quiz/Trivia
 
 - [New Quiz](https://github.com/joaomanaia/newquiz)
+
+#### Online
+
+- [Bim](https://github.com/j-jorge/bim)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1046,7 +1059,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Subsonic Client
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [SubTune](https://github.com/TaylorKunZhang/SubTune)
@@ -1055,7 +1068,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Spotify Client
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Jetispot](https://github.com/iTaysonLab/jetispot) **`DEAD`**
@@ -1073,7 +1086,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Youtube
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Clipious](https://github.com/lamarios/clipious)
@@ -1096,7 +1109,7 @@ If you want to help out with the project, here are some ideas:
 
 #### YouTube Music
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer)
@@ -1126,7 +1139,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Twitch
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Frosty](https://github.com/tommyxchow/frosty)
@@ -1493,7 +1506,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Discord
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Aliucord](https://github.com/Aliucord/Aliucord)
@@ -1505,14 +1518,14 @@ If you want to help out with the project, here are some ideas:
 
 #### Facebook
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Nobook](https://github.com/ycngmn/Nobook)
 
 #### Github
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [DioHub](https://github.com/NamanShergill/diohub)
@@ -1542,14 +1555,14 @@ If you want to help out with the project, here are some ideas:
 
 #### Pixiv
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter)
 
 #### Reddit
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
@@ -1561,21 +1574,21 @@ If you want to help out with the project, here are some ideas:
 
 #### Steam
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Pluvia](https://github.com/oxters168/Pluvia)
 
 #### VK
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [VTosters lite](https://github.com/vtosters/lite)
 
 #### X(Twitter)
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Harpy](https://github.com/robertodoering/harpy) **`DEAD`**
@@ -1586,7 +1599,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Xda
 
-> [!WARNING]  
+> [!WARNING]
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [ReLabs - XDA Developers](https://github.com/theimpulson/ReLabs/releases)
@@ -1901,5 +1914,5 @@ If you want to help out with the project, here are some ideas:
 - _Lemmy:_ [degoogle](https://lemmy.ml/c/degoogle), [android](https://lemmy.world/c/android)
 - _Reddit:_ [r/fossdroid](https://www.reddit.com/r/fossdroid/)
 - _Telegram:_ [WSTprojects](https://t.me/WSTprojects), [FossDroid](https://t.me/FossDroidAndroid),
-[popMODS](https://t.me/popMODS)
+  [popMODS](https://t.me/popMODS)
 - _Similar Lists:_ [Android FOSS](https://github.com/offa/android-foss/tree/master), [Material You Apps List](https://github.com/nyas1/Material-You-app-list), [degoogle](https://github.com/tycrek/degoogle), [AAA](https://github.com/Psyhackological/AAA)
