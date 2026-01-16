@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
 - [WebLibre](https://github.com/FaFre/WebLibre)
 - [searxist](https://codeberg.org/Linerly/searxist)
 - [mpvEx](https://github.com/marlboro-advance/mpvEx)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 - [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
-- [LiftLog](https://github.com/LiamMorrow/LiftLog)
 
 </details>
 
@@ -934,6 +934,7 @@ If you want to help out with the project, here are some ideas:
 
 - [BlissLauncher](https://gitlab.e.foundation/e/apps/BlissLauncher)
 - [Discreet Launcher](https://github.com/falzonv/discreet-launcher)
+- [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
 - [Emerald Launcher](https://github.com/HenriDellal/emerald)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
 - [Fossify App Launcher](https://github.com/FossifyOrg/App-Launcher)
