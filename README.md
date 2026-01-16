@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [searxist](https://codeberg.org/Linerly/searxist)
 - [mpvEx](https://github.com/marlboro-advance/mpvEx)
 - [Keyguard](https://github.com/AChep/keyguard-app)
 - [gitnote](https://github.com/wiiznokes/gitnote)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Stepsy](https://github.com/nvllz/stepsy)
-- [Rhythm](https://github.com/cromaguy/Rhythm)
 
 </details>
 
@@ -355,6 +355,7 @@ If you want to help out with the project, here are some ideas:
 - [Lightning](https://github.com/anthonycr/Lightning-Browser)
 - [Monocles Browser](https://codeberg.org/Arne/monocles_browser)
 - [Privacy Browser](https://gitweb.stoutner.com/?p=PrivacyBrowserAndroid.git)
+- [searxist](https://codeberg.org/Linerly/searxist)
 - [SmartCookieWeb](https://github.com/CookieJarApps/SmartCookieWeb) **`DEAD`**
 
 #### Tools
