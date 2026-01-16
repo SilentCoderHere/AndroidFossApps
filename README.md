@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [PAIOS](https://github.com/Puzzaks/PAIOS)
 - [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Right Dialer](https://github.com/Goodwy/Dialer)
 - [Right Messages](https://github.com/Goodwy/Messages)
 - [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
-- [Right Files](https://github.com/Goodwy/File-Manager)
 
 </details>
 
@@ -282,6 +282,7 @@ If you want to help out with the project, here are some ideas:
 - [Copilot OCR](https://github.com/YangDai2003/CopilotOCR-Android) **`DEAD`**
 - [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant)
 - [Maid](https://github.com/Mobile-Artificial-Intelligence/maid)
+- [PAIOS](https://github.com/Puzzaks/PAIOS)
 - [Sense](https://github.com/F0x1d/Sense)
 - [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android)
 - [Summary You](https://github.com/talosross/SummaryYou)
