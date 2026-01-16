@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [PAIOS](https://github.com/Puzzaks/PAIOS)
 - [Audion](https://github.com/dupitydumb/Audion)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Right Dialer](https://github.com/Goodwy/Dialer)
-- [Right Messages](https://github.com/Goodwy/Messages)
 
 </details>
 
@@ -1217,6 +1217,7 @@ If you want to help out with the project, here are some ideas:
 - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary)
 - [Firenote](https://github.com/T8RIN/Firenote)
 - [Fossify Notes](https://github.com/FossifyOrg/Notes)
+- [gitnote](https://github.com/wiiznokes/gitnote)
 - [Joplin](https://github.com/laurent22/joplin)
 - [jtx Board](https://github.com/TechbeeAT/jtxBoard)
 - [JustNotes](https://github.com/jjewuz/JustNotes)
