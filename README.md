@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
 - [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
 - [Mako](https://github.com/jmiguelrivas/mako)
 - [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Block Drop](https://github.com/brandonp2412/BlockDrop)
 - [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
 - [Snakes](https://gitlab.com/mir06/snakes)
-- [Bim](https://github.com/j-jorge/bim)
 
 </details>
 
@@ -957,6 +957,7 @@ If you want to help out with the project, here are some ideas:
 - [PaperLaunch](https://github.com/devmil/PaperLaunch)
 - [Pie Launcher](https://github.com/markusfisch/PieLauncher)
 - [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3)
+- [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
 - [Unlauncher](https://github.com/jkuester/unlauncher)
 - [YAM Launcher](https://codeberg.org/ottoptj/yamlauncher)
 
