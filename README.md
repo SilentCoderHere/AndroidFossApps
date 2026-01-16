@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Mako](https://github.com/jmiguelrivas/mako)
 - [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)
 - [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
 - [WebLibre](https://github.com/FaFre/WebLibre)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Snakes](https://gitlab.com/mir06/snakes)
 - [Bim](https://github.com/j-jorge/bim)
 - [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
-- [Kenko](https://github.com/Iamlooker/Kenko)
 
 </details>
 
@@ -947,6 +947,7 @@ If you want to help out with the project, here are some ideas:
 - [LaunchTime](https://github.com/quaap/LaunchTime)
 - [Lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 - [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
+- [Mako](https://github.com/jmiguelrivas/mako)
 - [Mini Car Launcher](https://github.com/jamal2362/Mini-Car-Launcher)
 - [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)
 - [Olauncher](https://github.com/tanujnotes/Olauncher)
