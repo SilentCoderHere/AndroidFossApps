@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [WebLibre](https://github.com/FaFre/WebLibre)
 - [searxist](https://codeberg.org/Linerly/searxist)
 - [mpvEx](https://github.com/marlboro-advance/mpvEx)
 - [Keyguard](https://github.com/AChep/keyguard-app)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Kenko](https://github.com/Iamlooker/Kenko)
 - [AOSmium](https://codeberg.org/AXP-OS/app_aosmium)
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
-- [Stepsy](https://github.com/nvllz/stepsy)
 
 </details>
 
@@ -344,6 +344,7 @@ If you want to help out with the project, here are some ideas:
   - [Waterfox](https://github.com/BrowserWorks/Waterfox-Android) **`FORK`**
 - [Firefox Focus](https://hg.mozilla.org/mozilla-central)
 - [Firefox Klar](https://hg.mozilla.org/mozilla-central)
+- [WebLibre](https://github.com/FaFre/WebLibre)
 
 #### Other
 
