@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [PAIOS](https://github.com/Puzzaks/PAIOS)
 - [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Right Contacts](https://github.com/Goodwy/Contacts)
 - [Right Dialer](https://github.com/Goodwy/Dialer)
 - [Right Messages](https://github.com/Goodwy/Messages)
-- [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
 
 </details>
 
@@ -598,6 +598,7 @@ If you want to help out with the project, here are some ideas:
   - [Myne](https://github.com/Pool-Of-Tears/Myne)
   - [Openlib](https://github.com/dstark5/Openlib)
 - **Music**
+  - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
   - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
   - [Spowlo](https://github.com/BobbyESP/Spowlo)
 - **Torrent**
