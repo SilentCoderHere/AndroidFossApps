@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [mpvEx](https://github.com/marlboro-advance/mpvEx)
 - [Keyguard](https://github.com/AChep/keyguard-app)
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [LiftLog](https://github.com/LiamMorrow/LiftLog)
 - [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
-- [Right Contacts](https://github.com/Goodwy/Contacts)
 
 </details>
 
@@ -1158,6 +1158,7 @@ If you want to help out with the project, here are some ideas:
 - [Just (Video) Player](https://github.com/moneytoo/Player)
 - [mpv for Android](https://github.com/mpv-android/mpv-android)
   - [mpvKt](https://github.com/abdallahmehiz/mpvKt) **`FORK`**
+  - [mpvEx](https://github.com/marlboro-advance/mpvEx) **`FORK`**
 - [Next Player](https://github.com/anilbeesetti/nextplayer)
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
 - [Phocid](https://github.com/tjysunset/phocid)
