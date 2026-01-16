@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Right Messages](https://github.com/Goodwy/Messages)
 - [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
 - [Right Files](https://github.com/Goodwy/File-Manager)
-- [Unitto](https://github.com/sadellie/unitto)
 
 </details>
 
@@ -1012,6 +1012,7 @@ If you want to help out with the project, here are some ideas:
 
 #### Music/Audio Player
 
+- [Audion](https://github.com/dupitydumb/Audion)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
 - [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [Blade Player](https://github.com/vhaudiquet/BladePlayer)
