@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Colorful](https://github.com/suve/LD25)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [DrawAnyWhere](https://github.com/shezik/DrawAnywhere)
 - [Right Files](https://github.com/Goodwy/File-Manager)
 - [Unitto](https://github.com/sadellie/unitto)
-- [NumberHub](https://github.com/Myzel394/NumberHub)
 
 </details>
 
@@ -799,6 +799,7 @@ If you want to help out with the project, here are some ideas:
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
 - [Rekado](https://github.com/MenosGrante/Rekado)
 - [RetroArch](https://github.com/libretro/RetroArch)
+- [star](https://github.com/jacojayy/star)
 - [XoDos](https://github.com/xodiosx/XoDos)
 - [Yuzu](https://github.com/yuzu-emu/yuzu)
 
