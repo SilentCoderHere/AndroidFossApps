@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Messages](https://github.com/PVOT-OSS/Messages)
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Colorful](https://github.com/suve/LD25)
 - [Frogue](https://github.com/necrashter/frogue)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Right Files](https://github.com/Goodwy/File-Manager)
 - [Unitto](https://github.com/sadellie/unitto)
 - [NumberHub](https://github.com/Myzel394/NumberHub)
-- [Right Gallery](https://github.com/Goodwy/Gallery)
 
 </details>
 
@@ -538,6 +538,7 @@ If you want to help out with the project, here are some ideas:
 - [Fossify SMS Messenger](https://github.com/FossifyOrg/Messages)
 - [QKSMS](https://github.com/moezbhatti/qksms)
   - [Quik](https://github.com/octoshrimpy/quik) **`FORK`**
+  - [Messages](https://github.com/PVOT-OSS/Messages) **`FORK`**
 - [Right Messages](https://github.com/Goodwy/Messages)
 - [Silence](https://github.com/SilenceIM/Silence) **`DEAD`**
 
