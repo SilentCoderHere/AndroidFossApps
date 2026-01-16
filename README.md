@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Keyguard](https://github.com/AChep/keyguard-app)
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [PAIOS](https://github.com/Puzzaks/PAIOS)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Stepsy](https://github.com/nvllz/stepsy)
 - [Rhythm](https://github.com/cromaguy/Rhythm)
 - [Right Contacts](https://github.com/Goodwy/Contacts)
-- [Right Dialer](https://github.com/Goodwy/Dialer)
 
 </details>
 
@@ -1299,6 +1299,7 @@ If you want to help out with the project, here are some ideas:
 - [Bitwarden](https://github.com/bitwarden/mobile)
 - [Keepass2Android](https://github.com/PhilippC/keepass2android)
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+- [Keyguard](https://github.com/AChep/keyguard-app)
 - [Keyoxide](https://codeberg.org/keyoxide/keyoxide-flutter)
 - [KeyManager](https://github.com/Yash-Garg/KeyManager)
 - [KeyPass](https://github.com/yogeshpaliyal/KeyPass)
