@@ -1297,11 +1297,10 @@ If you want to help out with the project, here are some ideas:
 ### :closed_lock_with_key: Password & Authentication
 
 - [Bitwarden](https://github.com/bitwarden/mobile)
-- [Bitwarden BETA](https://github.com/bitwarden/android)
 - [Keepass2Android](https://github.com/PhilippC/keepass2android)
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-- [KeyManager](https://github.com/Yash-Garg/KeyManager)
 - [Keyoxide](https://codeberg.org/keyoxide/keyoxide-flutter)
+- [KeyManager](https://github.com/Yash-Garg/KeyManager)
 - [KeyPass](https://github.com/yogeshpaliyal/KeyPass)
 - [KeySpace](https://github.com/Keyspace-cloud/android)
 - [KuPass](https://github.com/achmaddaniel24/kupass.git)
