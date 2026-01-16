@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
 - [Mako](https://github.com/jmiguelrivas/mako)
 - [Dragon Launcher](https://github.com/Elnix90/Dragon-Launcher)
 - [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
 - [Snakes](https://gitlab.com/mir06/snakes)
 - [Bim](https://github.com/j-jorge/bim)
-- [AI Hub](https://github.com/SilentCoderHere/AI-Hub)
 
 </details>
 
@@ -938,6 +938,7 @@ If you want to help out with the project, here are some ideas:
 - [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
 - [Emerald Launcher](https://github.com/HenriDellal/emerald)
 - [Easy Launcher](https://github.com/DroidWorksStudio/EasyLauncher)
+- [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
 - [Fossify App Launcher](https://github.com/FossifyOrg/App-Launcher)
 - [Fossify Launcher](https://github.com/FossifyOrg/Launcher)
 - [Hex Launcher](https://github.com/MrMannWood/launcher)
