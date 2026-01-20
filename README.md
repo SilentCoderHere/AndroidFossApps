@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Futon](https://github.com/AppFuton/Futon)
 - [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
 - [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
 - [Mako](https://github.com/jmiguelrivas/mako)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
 - [Block Drop](https://github.com/brandonp2412/BlockDrop)
 - [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
-- [Snakes](https://gitlab.com/mir06/snakes)
 
 </details>
 
@@ -1406,7 +1406,8 @@ If you want to help out with the project, here are some ideas:
   - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`** **`DEAD`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Komikku](https://github.com/komikku-app/komikku)
-- [Kotatsu](https://github.com/KotatsuApp/Kotatsu)
+- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`DEAD`**
+  - [Futon](https://github.com/AppFuton/Futon) **`FORK`**
 - [LNReader](https://github.com/LNReader/lnreader)
 - [Mangafeed](https://github.com/starfish23/mangafeed) **`DEAD`**
 - [Mihon](https://github.com/mihonapp/mihon)
