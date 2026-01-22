@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kumo](https://github.com/nubesurrealista/Kumo)
 - [Taison](https://github.com/Gent8/Taison)
 - [TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
 - [Kahon](https://github.com/AmanoTeam/Kahon)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Tessel](https://github.com/gvtulder/tessel)
 - [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
 - [Gridle](https://github.com/billthefarmer/gridle)
-- [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
 
 </details>
 
@@ -1413,6 +1413,7 @@ If you want to help out with the project, here are some ideas:
 - [Mangafeed](https://github.com/starfish23/mangafeed) **`DEAD`**
 - [Mihon](https://github.com/mihonapp/mihon)
   - [Kahon](https://github.com/AmanoTeam/Kahon) **`FORK`**
+  - [Kumo](https://github.com/nubesurrealista/Kumo) **`FORK`**
   - [TachiyomiAT](https://github.com/mannu691/TachiyomiAT) **`FORK`**
   - [Taison](https://github.com/Gent8/Taison) **`FORK`**
 - [Neko](https://github.com/CarlosEsco/Neko)
