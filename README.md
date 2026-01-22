@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Taison](https://github.com/Gent8/Taison)
 - [TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
 - [Kahon](https://github.com/AmanoTeam/Kahon)
 - [Futon](https://github.com/AppFuton/Futon)
@@ -1413,6 +1414,7 @@ If you want to help out with the project, here are some ideas:
 - [Mihon](https://github.com/mihonapp/mihon)
   - [Kahon](https://github.com/AmanoTeam/Kahon) **`FORK`**
   - [TachiyomiAT](https://github.com/mannu691/TachiyomiAT) **`FORK`**
+  - [Taison](https://github.com/Gent8/Taison) **`FORK`**
 - [Neko](https://github.com/CarlosEsco/Neko)
 - [Nekome](https://github.com/Chesire/Nekome)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
