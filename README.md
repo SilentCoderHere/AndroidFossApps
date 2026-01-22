@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Kahon](https://github.com/AmanoTeam/Kahon)
 - [Futon](https://github.com/AppFuton/Futon)
 - [tmtLauncher](https://github.com/tinnamchoi/tmtLauncher)
 - [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
@@ -63,7 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Gridle](https://github.com/billthefarmer/gridle)
 - [Roboyard](https://github.com/Eastcoast-Laboratories/Roboyard)
 - [Block Drop](https://github.com/brandonp2412/BlockDrop)
-- [Unlock Jam](https://github.com/vayun-mathur/unblock-jam)
 
 </details>
 
@@ -1411,6 +1411,7 @@ If you want to help out with the project, here are some ideas:
 - [LNReader](https://github.com/LNReader/lnreader)
 - [Mangafeed](https://github.com/starfish23/mangafeed) **`DEAD`**
 - [Mihon](https://github.com/mihonapp/mihon)
+  - [Kahon](https://github.com/AmanoTeam/Kahon) **`FORK`**
 - [Neko](https://github.com/CarlosEsco/Neko)
 - [Nekome](https://github.com/Chesire/Nekome)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
