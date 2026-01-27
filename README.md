@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Orion Store](https://github.com/RookieEnough/Orion-Store)
 - [Kumo](https://github.com/nubesurrealista/Kumo)
 - [Taison](https://github.com/Gent8/Taison)
 - [TachiyomiAT](https://github.com/mannu691/TachiyomiAT)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Frogue](https://github.com/necrashter/frogue)
 - [Tessel](https://github.com/gvtulder/tessel)
 - [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
-- [Gridle](https://github.com/billthefarmer/gridle)
 
 </details>
 
@@ -266,6 +266,7 @@ If you want to help out with the project, here are some ideas:
 - [GlassDown](https://github.com/RomanK2311/glassdown)
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
+- [Orion Store](https://github.com/RookieEnough/Orion-Store)
 - [Sky Droid](https://github.com/redsolver/skydroid)
 - [Update Me](https://github.com/anfreire/updateMe-Mobile)
 - [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
