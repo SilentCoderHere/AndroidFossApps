@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
 - [Ricochlime](https://github.com/adil192/ricochlime)
 - [Orion Store](https://github.com/RookieEnough/Orion-Store)
 - [Kumo](https://github.com/nubesurrealista/Kumo)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Colorful](https://github.com/suve/LD25)
 - [Frogue](https://github.com/necrashter/frogue)
-- [Tessel](https://github.com/gvtulder/tessel)
 
 </details>
 
@@ -755,6 +755,7 @@ If you want to help out with the project, here are some ideas:
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Breakout 71](https://gitlab.com/lecarore/breakout71)
 - [Colorful](https://github.com/suve/LD25)
+- [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
 - [Frogue](https://github.com/necrashter/frogue)
 - [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
