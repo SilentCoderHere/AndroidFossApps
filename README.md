@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
 - [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
 - [Ricochlime](https://github.com/adil192/ricochlime)
 - [Orion Store](https://github.com/RookieEnough/Orion-Store)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Messages](https://github.com/PVOT-OSS/Messages)
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
 - [Colorful](https://github.com/suve/LD25)
-- [Frogue](https://github.com/necrashter/frogue)
 
 </details>
 
@@ -765,6 +765,7 @@ If you want to help out with the project, here are some ideas:
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
 - [Ricochlime](https://github.com/adil192/ricochlime)
 - [Tessel](https://github.com/gvtulder/tessel)
+- [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
 
 #### Board
 
