@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Ricochlime](https://github.com/adil192/ricochlime)
 - [Orion Store](https://github.com/RookieEnough/Orion-Store)
 - [Kumo](https://github.com/nubesurrealista/Kumo)
 - [Taison](https://github.com/Gent8/Taison)
@@ -64,7 +65,6 @@ If you want to help out with the project, here are some ideas:
 - [Colorful](https://github.com/suve/LD25)
 - [Frogue](https://github.com/necrashter/frogue)
 - [Tessel](https://github.com/gvtulder/tessel)
-- [Free The Bugs](https://github.com/mlm-games/free-the-bugs)
 
 </details>
 
@@ -762,6 +762,7 @@ If you want to help out with the project, here are some ideas:
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
 - [Pocket Broomball](https://github.com/dulvui/pocket-broomball)
 - [Quinb](https://gitlab.com/deepdaikon/Quinb)
+- [Ricochlime](https://github.com/adil192/ricochlime)
 - [Tessel](https://github.com/gvtulder/tessel)
 
 #### Board
