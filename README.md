@@ -39,6 +39,7 @@ If you want to help out with the project, here are some ideas:
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
+- [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 - [Vector Pinball](https://github.com/dozingcat/Vector-Pinball)
 - [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
 - [Ricochlime](https://github.com/adil192/ricochlime)
@@ -64,7 +65,7 @@ If you want to help out with the project, here are some ideas:
 - [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
 - [AAAAXY](https://github.com/divVerent/aaaaxy)
-- [Colorful](https://github.com/suve/LD25)
+- [Col
 
 </details>
 
@@ -617,6 +618,7 @@ If you want to help out with the project, here are some ideas:
 - **YouTube**
   - [TubeSync](https://github.com/khaled-0/TubeSync)
   - [Seal](https://github.com/JunkFood02/Seal)
+    - [Seal Plus](https://github.com/MaheshTechnicals/Sealplus) **`FORK`**
   - [SongTube](https://github.com/SongTube/SongTube-App)
   - [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
