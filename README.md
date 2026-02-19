@@ -64,8 +64,6 @@ If you want to help out with the project, here are some ideas:
 - [Audion](https://github.com/dupitydumb/Audion)
 - [star](https://github.com/jacojayy/star)
 - [Messages](https://github.com/PVOT-OSS/Messages)
-- [AAAAXY](https://github.com/divVerent/aaaaxy)
-- [Col
 
 </details>
 
