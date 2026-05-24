@@ -260,7 +260,6 @@
   - [F-Droid Classic](https://git.bubu1.eu/Bubu/fdroidclassic) **`FORK`**
   - [G-Droid](https://gitlab.com/gdroid/gdroidclient) **`FORK`**
   - [Neo-Store](https://github.com/NeoApplications/Neo-Store) **`FORK`**
-- [GlassDown](https://github.com/RomanK2311/glassdown)
 - [IzzyOnDroid](https://gitlab.com/sunilpaulmathew/izzyondroid)
 - [Obtainium](https://github.com/ImranR98/Obtainium)
   - [Updatium](https://github.com/omeritzics/Updatium) **`FORK`**
@@ -373,7 +372,6 @@
 - [FFUpdater](https://github.com/Tobi823/ffupdater)
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin)
 - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
-- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -429,9 +427,8 @@
 
 - [blabber.im](https://codeberg.org/kriztan/blabber.im)
 - [Briar](https://code.briarproject.org/briar/briar)
-- [Conversations](https://github.com/siacs/Conversations) **`DEAD`**
-  - [Cheogram](https://git.singpolyma.net/cheogram-android) **`FORK`**
-  - [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic) **`FORK`**
+- [Cheogram](https://git.singpolyma.net/cheogram-android) **`FORK`**
+- [Conversations Classic](https://dev.narayana.im/narayana/conversations-classic) **`FORK`**
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
 - [Kontalk](https://github.com/kontalk/androidclient) **`DEAD`**
@@ -483,12 +480,10 @@
 - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
 - [Telegram X](https://github.com/TGX-Android/Telegram-X)
   - [moeGramX](https://github.com/moeCrafters/moeGramX) **`FORK`**
-- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 
 ##### Tools
 
 - [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
-- [Tool Telegram](https://github.com/trindadedev13/Tool-Telegram)
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -794,7 +789,6 @@
 
 ### :flashlight: Flashlight
 
-- [An Light | Flashlight](https://github.com/neophtex/An-Light-Flashlight)
 - [FlashDim](https://github.com/cyb3rko/flashdim)
 - [Flashlight Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`DEAD`**
 - [Flashy](https://github.com/Crazy-Marvin/Flashy)
@@ -812,7 +806,6 @@
 - [Colorful](https://github.com/suve/LD25)
 - [Flappy Bird](https://github.com/FlappyRecreator/FlappyB64bitAndroid)
 - [Frogue](https://github.com/necrashter/frogue)
-- [Loverquest](https://github.com/H3rz3n/loverquest)
 - [Mindustry](https://github.com/Anuken/Mindustry)
 - [Minetest](https://github.com/minetest/minetest)
 - [Open Golf](https://github.com/mgerdes/Open-Golf) **`DEAD`**
@@ -837,7 +830,6 @@
 - [Open Chaos Chess](https://github.com/CorruptedArk/open-chaos-chess)
 - [Scid on the go](https://github.com/gkalab/scidonthego) **`DEAD`**
 - [Simple Chess Clock](https://github.com/simenheg/simple-chess-clock)
-- [wuziqi](https://github.com/iacobo/wuziqi)
 
 #### Card
 
@@ -867,7 +859,6 @@
 - [Winlator](https://github.com/brunodev85/winlator)
   - [star](https://github.com/jacojayy/star) **`FORK`**
 - [XoDos](https://github.com/xodiosx/XoDos)
-- [Yuzu](https://github.com/yuzu-emu/yuzu)
 
 #### Logic
 
@@ -943,7 +934,6 @@
 - [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
 - [ImagePipe](https://codeberg.org/Starfish/Imagepipe)
 - [Metadata Remover](https://github.com/Crazy-Marvin/MetadataRemover)
-- [PrivacyBlur](https://github.com/MATHEMA-GmbH/privacyblur)
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
 - [SuperImage](https://github.com/Lucchetto/SuperImage) **`DEAD`**
 
@@ -967,7 +957,6 @@
 
 - [8VIM](https://github.com/flide/8VIM)
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
-- [BeHe Keyboard](https://github.com/VladThodo/behe-keyboards)
 - [FBoard](https://gitlab.com/frknkrc44/superboard)
 - [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
 - [FlorisBoard](https://github.com/florisboard/florisboard)
@@ -1001,7 +990,6 @@
 - [EinsteinLauncher](https://github.com/JackEblan/EinsteinLauncher)
 - [Emerald Launcher](https://github.com/HenriDellal/emerald)
 - [Escape Launcher](https://github.com/GeorgeClensy/Escape-Launcher)
-- [Fossify App Launcher](https://github.com/FossifyOrg/App-Launcher)
 - [Fossify Launcher](https://github.com/FossifyOrg/Launcher)
 - [Hex Launcher](https://github.com/MrMannWood/launcher)
 - [KISS](https://github.com/Neamar/KISS)
@@ -1033,7 +1021,6 @@
 - [BTC Map](https://github.com/teambtcmap/btcmap-android)
 - [Compass](https://github.com/Kr0oked/Compass)
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler)
-- [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [GMaps WV](https://gitlab.com/divested-mobile/maps)
 - [Grid](https://github.com/Rezivure/grid-frontend)
 - [Öffi](https://gitlab.com/oeffi/oeffi)
@@ -1089,7 +1076,6 @@
 - [Audion](https://github.com/dupitydumb/Audion)
 - [Audion](https://github.com/dupitydumb/Audion)
 - [Auxio](https://github.com/OxygenCobalt/Auxio)
-- [BlackHole](https://github.com/Sangwan5688/BlackHole)
 - [Blade Player](https://github.com/vhaudiquet/BladePlayer)
 - [Bloomee](https://github.com/HemantKArya/BloomeeTunes)
 - [CuteMusic](https://github.com/sosauce/CuteMusic)
@@ -1339,7 +1325,6 @@
 ### :computer: Office
 
 - [Collabora Office](https://www.collaboraoffice.com/downloads/Collabora-Office-Android-Snapshot/)
-- [LibreOffice Viewer](https://cgit.freedesktop.org/libreoffice/core/tree)
 - [ONLYOFFICE](https://github.com/ONLYOFFICE/documents-app-android)
 - [OpenDocument](https://github.com/opendocument-app/OpenDocument.droid)
 
@@ -1350,7 +1335,6 @@
 ### :broom: Optimizer & Cleaner
 
 - [Android Enhancer](https://github.com/iamlooper/Android-Enhancer)
-- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus)
 - [FDE.AI](https://github.com/feravolt/FDE.AI-docs)
 - [LTE Cleaner FOSS](https://github.com/MDP43140/LTECleanerFOSS)
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
@@ -1398,7 +1382,6 @@
 - [AirGuard - AirTag protection](https://github.com/seemoo-lab/AirGuard)
 - [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker)
 - [AppLock](https://github.com/PranavPurwar/AppLock)
-- [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner)
 - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app)
 - [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit)
 - [InviZible Pro](https://github.com/Gedsh/InviZible)
@@ -1467,12 +1450,10 @@
 - [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) **`DEAD`**
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
   - [Animiru](https://github.com/Quickdesh/Animiru) **`FORK`**
+- [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
 - [Bangumi](https://github.com/czy0729/Bangumi)
 - [DailyAL](https://github.com/JICA98/DailyAL)
-- [Dantotsu](https://github.com/rebelonion/Dantotsu) **`DEAD`**
-  - [Awery](https://github.com/MrBoomDeveloper/Awery) **`FORK`**
-- [Hentoid](https://github.com/avluis/Hentoid)
-  - [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
+- [Hentoid MaterialYou](https://github.com/h6rd/Hentoid-Material-You) **`FORK`**
 - [IReader](https://github.com/IReaderorg/IReader)
 - [Komikku](https://github.com/komikku-app/komikku)
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`DEAD`**
@@ -1540,7 +1521,6 @@
 - [Brainf](https://github.com/fredhappyface/android.brainf)
 - [Bubble](https://github.com/woheller69/level)
 - [ChemistryLab](https://gitlab.com/asdoi/ChemistryLab)
-- [Geomag](https://github.com/ya0211/Geomag) **`DEAD`**
 - [Git+ Coach](https://github.com/vishal2376/git-coach)
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [phyphox](https://github.com/phyphox/phyphox-android)
@@ -1563,7 +1543,6 @@
 - [Binary Eye](https://github.com/markusfisch/BinaryEye)
 - [Catima](https://github.com/CatimaLoyalty/Android)
 - [Pixel Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner)
-- [Privacy Friendly QR Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
 - [QR & Barcode Scanner](https://github.com/wewewe718/QrAndBarcodeScanner) **`DEAD`**
 - [SecScanQR](https://github.com/Fr4gorSoftware/SecScanQR) **`DEAD`**
 - [Simple QR](https://github.com/tomfong/simple-qr)
@@ -1582,7 +1561,6 @@
 
 - [Grocy](https://github.com/patzly/grocy-android)
 - [Shopin](https://github.com/erdemklync/Shopin) **`DEAD`**
-- [Shopping Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`DEAD`**
 
 <sub>[:scroll: Table of Contents](#scroll-table-of-contents)</sub>
 
@@ -1598,8 +1576,7 @@
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Aliucord](https://github.com/Aliucord/Aliucord)
-- [OpenCord](https://github.com/topminipie/OpenCord) **`DEAD`**
-  - [OpenCord](https://github.com/MateriiApps/OpenCord) **`FORK`** **`DEAD`**
+- [OpenCord](https://github.com/MateriiApps/OpenCord) **`FORK`** **`DEAD`**
 - [Vendetta](https://github.com/vendetta-mod/Vendetta) **`DEAD`**
   - [Revenge](https://github.com/revenge-mod/Revenge) **`FORK`**
 - [Vendroid](https://github.com/Vencord/Vendroid)
@@ -1626,7 +1603,6 @@
 - [Eternity for Lemmy](https://codeberg.org/Bazsalanszky/Eternity)
 - [Jerboa](https://github.com/dessalines/jerboa)
 - [Liftoff!](https://github.com/liftoff-app/liftoff)
-- [Raccoon for Lemmy](https://github.com/diegoberaldin/RaccoonForLemmy)
 - [Thunder](https://github.com/hjiangsu/thunder)
 - [Voyager](https://github.com/aeharding/voyager)
 
@@ -1680,7 +1656,6 @@
 > Only the application is FOSS. The service is based on a closed-source or non-FOSS system.
 
 - [Harpy](https://github.com/robertodoering/harpy)
-- [Quacker](https://github.com/TheHCJ/Quacker) **`DEAD`**
 - [Squawker](https://github.com/j-fbriere/squawker)
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) **`DEAD`**
   - [Twidere X](https://github.com/TwidereProject/TwidereX-Android) **`FORK`** **`DEAD`**
@@ -1771,7 +1746,6 @@
 - [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) **`DEAD`**
 - [DigiPaws](https://github.com/nethical6/digipaws)
 - [DroidPad](https://github.com/umer0586/DroidPad)
-- [Emoji Kitchen](https://github.com/jeeneo/kitchen)
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [Geto](https://github.com/JackEblan/Geto)
@@ -1828,7 +1802,6 @@
 #### Terminal
 
 - [Termux](https://github.com/termux/termux-app)
-  - [Termux Monet](https://github.com/HardcodedCat/termux-monet) **`FORK`** **`DEAD`**
 
 #### Theme
 
@@ -1845,7 +1818,6 @@
 - [Acode](https://acode.foxdebug.com/)
 - [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) **`DEAD`**
 - [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide)
-- [DroidVim](https://github.com/shiftrot/droidvim)
 - [Editor](https://github.com/billthefarmer/editor)
 - [Emacs](https://git.savannah.gnu.org/cgit/emacs.git/tree/?h=feature/android)
 - [Ghosts IDE](https://github.com/HanzoDev1375/Ghostide)
