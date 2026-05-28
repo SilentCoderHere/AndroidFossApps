@@ -340,6 +340,18 @@
       ],
       "urlFork": "https://github.com/ImranR98/Obtainium",
       "description": "Get Android app updates straight from the source. And install it any way you want."
+    },
+    {
+      "applicationName": "Game Hub",
+      "url": "https://github.com/FeDeveloper95/Game-Hub",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Launcher"
+      ],
+      "urlFork": null,
+      "description": ""
     }
   ]
 }
