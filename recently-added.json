@@ -327,6 +327,19 @@
       ],
       "urlFork": "https://github.com/NextAlone/Nagram",
       "description": "A variant of Nagram with additional features."
+    },
+    {
+      "applicationName": "ObtainX",
+      "url": "https://github.com/bikram-agarwal/ObtainX",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "App Store",
+        "App Manager"
+      ],
+      "urlFork": "https://github.com/ImranR98/Obtainium",
+      "description": "Get Android app updates straight from the source. And install it any way you want."
     }
   ]
 }
