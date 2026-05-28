@@ -314,6 +314,19 @@
       ],
       "urlFork": null,
       "description": "A feature-rich, privacy-focused PDF app built with Jetpack Compose and Material 3. View, edit, and manage PDFs with 12 powerful tools."
+    },
+    {
+      "applicationName": "NagramX",
+      "url": "https://github.com/risin42/NagramX",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": true,
+      "tags": [
+        "Chat & Messaging",
+        "Telegram"
+      ],
+      "urlFork": "https://github.com/NextAlone/Nagram",
+      "description": "A variant of Nagram with additional features."
     }
   ]
 }
