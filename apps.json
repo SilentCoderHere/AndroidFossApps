@@ -326,7 +326,7 @@
     "applicationName": "Android Faker",
     "url": "https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Privacy"
@@ -3958,7 +3958,7 @@
     "applicationName": "Ghosts IDE",
     "url": "https://github.com/HanzoDev1375/Ghostide",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Text Editor & Code Editor/IDE"
@@ -4144,7 +4144,7 @@
     "applicationName": "Guitarist",
     "url": "https://github.com/Colorata/Guitarist",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Media (Audio/Video)",
@@ -4334,7 +4334,7 @@
     "applicationName": "Hentoid MaterialYou",
     "url": "https://github.com/h6rd/Hentoid-Material-You",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": true,
     "tags": [
       "Reader & Viewer",
@@ -5157,7 +5157,7 @@
     "applicationName": "KryptEY",
     "url": "https://github.com/amnesica/KryptEY",
     "downloadUrl": [],
-    "isDead": false,
+    "isDead": true,
     "isFork": false,
     "tags": [
       "Keyboard"
