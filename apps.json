@@ -559,18 +559,6 @@
     "description": ""
   },
   {
-    "applicationName": "Applist Detector",
-    "url": "https://github.com/Dr-TSNG/ApplistDetector",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "App Manager"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "AppLock",
     "url": "https://github.com/PranavPurwar/AppLock",
     "downloadUrl": [],
@@ -2616,19 +2604,6 @@
     "description": ""
   },
   {
-    "applicationName": "Echo",
-    "url": "https://github.com/iad1tya/Echo-Music",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": true,
-    "tags": [
-      "Media (Audio/Video)",
-      "YouTube Music"
-    ],
-    "urlFork": "https://github.com/maxrave-dev/SimpMusic",
-    "description": ""
-  },
-  {
     "applicationName": "EdgeSeek",
     "url": "https://github.com/LSafer/edgeseek",
     "downloadUrl": [],
@@ -3950,18 +3925,6 @@
     "tags": [
       "File",
       "File Manager"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "Ghosts IDE",
-    "url": "https://github.com/HanzoDev1375/Ghostide",
-    "downloadUrl": [],
-    "isDead": true,
-    "isFork": false,
-    "tags": [
-      "Text Editor & Code Editor/IDE"
     ],
     "urlFork": null,
     "description": ""
@@ -7432,18 +7395,6 @@
     "description": ""
   },
   {
-    "applicationName": "ONLYOFFICE",
-    "url": "https://github.com/ONLYOFFICE/documents-app-android",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Office"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
     "applicationName": "OONI Probe",
     "url": "https://github.com/ooni/probe-android",
     "downloadUrl": [],
@@ -7674,19 +7625,6 @@
     "tags": [
       "Sport & Health",
       "Tracker"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "OpenTune",
-    "url": "https://github.com/Arturo254/OpenTune",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "Media (Audio/Video)",
-      "YouTube Music"
     ],
     "urlFork": null,
     "description": ""
@@ -11760,18 +11698,6 @@
     "tags": [
       "Sport & Health",
       "Tracker"
-    ],
-    "urlFork": null,
-    "description": ""
-  },
-  {
-    "applicationName": "WhatToWatch",
-    "url": "https://github.com/theo-mesnil/WhatToWatch",
-    "downloadUrl": [],
-    "isDead": false,
-    "isFork": false,
-    "tags": [
-      "IDK"
     ],
     "urlFork": null,
     "description": ""
